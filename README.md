@@ -22,3 +22,5 @@ Toda la configuración de infraestructura se centraliza en archivos de configura
 
 
 Este README proporciona una guía clara y estructurada para cualquier persona interesada en utilizar Terraform para la gestión de infraestructura en OCI. También destaca las ventajas clave de Terraform y cómo A.R.E.S. hace que el proceso sea ágil, repetible, eficiente y simple.
+
+![image](https://github.com/user-attachments/assets/8995db31-ec73-4b7d-b0be-f741bb07d3d6)
