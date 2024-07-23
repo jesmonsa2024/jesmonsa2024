@@ -4,7 +4,7 @@
 
 ## 📋 Introducción
 
-Este repositorio está dedicado a la implementación de infraestructura como código (IaC) utilizando Terraform. A.R.E.S. (Agile, Repeatable, Efficient, Simple) es una estrategia diseñada para optimizar la creación y gestión de infraestructura en Oracle Cloud Infrastructure (OCI), pero también es aplicable a otras plataformas de nube como AWS, Azure y GCP.
+Este repositorio está dedicado a la implementación de infraestructura como código (IaC) utilizando Terraform. A.R.E.S. (Agile, Repeatable, Efficient, Simple) es una estrategia diseñada para optimizar la creación y gestión de infraestructura en Oracle Cloud Infrastructure (OCI).
 
 ## 🚀 Ventajas de Usar Terraform
 
